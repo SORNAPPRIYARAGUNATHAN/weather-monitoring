@@ -5,7 +5,7 @@ from datetime import datetime
 from statistics import mean
 
 # OpenWeatherMap API configuration
-API_KEY = 'e2df5c5712a77f625b59b8a35ccfccc4'  # Replace this with your actual API key
+API_KEY = 'e2df5c5712a77f625b59b8a35ccfccc4'  
 CITIES = ['Delhi', 'Mumbai', 'Chennai', 'Bangalore', 'Kolkata', 'Hyderabad']
 API_URL = "http://api.openweathermap.org/data/2.5/weather"
 
